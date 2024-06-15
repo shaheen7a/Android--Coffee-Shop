@@ -1,6 +1,6 @@
 # Coffee-Shop
 
-## Welcome! 👋
+## Welcome! 👋 🤖🤖
 
 Thanks for checking out this Application.
 A simple Coffee Shop Android Application with a great UI.
@@ -14,7 +14,7 @@ A simple Coffee Shop Android Application with a great UI.
 
 ## My process
 
-### Built with
+### Built with ⚙️⚙️
 
 - React Native
 - React Native Navigation
@@ -25,7 +25,7 @@ A simple Coffee Shop Android Application with a great UI.
 - JavaScript
 - JSX
 
-## Author
+## Author 
 
 - Linkedin - [@aous-shaheen-381636221](https://www.linkedin.com/in/shaheen2001/)
 - Facebook - [@aoushaheen7](https://www.facebook.com/shaheen72001/)
